@@ -4,9 +4,22 @@
   
     
     <entry>
+      <title>test00</title>
+      <link href="/2022/09/07/test/text1/"/>
+      <url>/2022/09/07/test/text1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="河北大学智能医疗工程技术中心"><a href="#河北大学智能医疗工程技术中心" class="headerlink" title="河北大学智能医疗工程技术中心"></a>河北大学智能医疗工程技术中心</h1><p>河北大学是教育部与河北省人民政府“部省合建”、河北省人民政府和国家国防科技工业局共建的重点综合性大学。 河北大学质量技术监督学院始建于1984年，是一所在国内有一定影响力、具有质量技术监督行业特色的学院。经过多年的办学积淀，形成了以计量、检验检测、标准、认证认可为核心的人才培养体系，拥有1个博士学位授权点（仪器科学与技术）、3个硕士学位授权点（仪器科学与技术、仪器仪表工程、控制工程）和4个本科专业（测控技术与仪器、机械设计制造及其自动化、质量管理工程、安全工程），其中测控技术与仪器专业入选国家卓越工程师教育培养计划。 学院建有“新能源光电器件国家地方联合工程实验室”、“国家光伏技术虚拟仿真实验教学中心”、“河北省协同创新中心”、“河北省现代检测技术与质量工程实验教学示范中心”。拥有52个专业实验室、1个工程实训中心。有31个校外实习基地及合作单位，包括长安汽车、长城汽车等大型企业和国家计量院、河北省计量院等事业单位、科研院所。校内外实践平台相结合，有效地保证了教师科研和学生实习的需要。 学院还设有“河北大学低碳研究院”、“河北大学产业计量研究所”、“河北大学地理标志研究院”、“ 河北大学无损检测研究所”等八个科研机构，以及“河北省计量仪器与系统工程实验室”、“河北省汽车散热器工程实验室”两个省级工程实验室。 学院有教职员工90人，其中专任教师70人。 研究生教育 河北大学仪器科学与技术学科始建于2001年，2006年获二级硕士学位授予权，2010年获一级硕士授予权及工程专业硕士学位授予权。2017年获一级博士学位授予权。 </p><h2 id="薛林雁，刘琨导师"><a href="#薛林雁，刘琨导师" class="headerlink" title="薛林雁，刘琨导师"></a>薛林雁，刘琨导师</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
-      <link href="/2022/09/06/hello-world/"/>
-      <url>/2022/09/06/hello-world/</url>
+      <link href="/2022/09/07/hello-world/"/>
+      <url>/2022/09/07/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
