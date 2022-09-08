@@ -1,0 +1,20 @@
+#footer {
+    background-color: #FAFAFA;
+    
+}
+#footer {
+    background-color:red;
+    
+}
+/*那个换页脚的地方*/
+.page-number current{
+
+}
+
+#pagination a:hover{
+    color: #c7c7c7
+}
+
+#pagination span:hover{
+    color: #c7c7c7
+}
